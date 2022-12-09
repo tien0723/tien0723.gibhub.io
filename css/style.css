@@ -1,0 +1,60 @@
+.icon-sophia{
+    margin-left: 200px;
+}
+.collapse{
+    margin-left: 50px;
+}
+.icon .icon-item{
+    display: flex;
+    list-style-type: none;
+}
+.icon .icon-item li{
+ margin-top: 7px;
+ margin-left: 10px;
+}
+/* slick slider */
+
+  .container{
+    max-width:100%;
+    margin:0 auto;
+    background: #DDD;
+  }
+  .coating-1{
+    position: relative;
+    height:350px;
+   
+  }
+
+    .slides{
+      display: flex;  
+    }
+    .container-sophia .coating-1 .container .slider .slick-list .slick-track .slides img{
+        width: 300px ;
+        height: 300px;
+      
+    }
+    /* img{
+        margin: 0 auto;
+
+      } */
+    .arrow{
+      position: absolute;
+      top:40%;
+      z-index: 2;
+      cursor: pointer;
+      padding: 20px;
+      background: red;
+      border-radius: 5px;
+   
+    }
+  .prev{
+    left:-45px;
+  }
+  .next{
+    right:-45px;
+  }
+  
+
+
+
+
