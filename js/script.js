@@ -1,16 +1,4 @@
-// $(".slideshow1").slick({
 
-//   infinite: true,
-//   autoplay: true,
-//   arrows: true,
-//   autoplaySpeed: 2000,
-//   prevArrow:"<span class='arrow prev'><i class='fas fa-angle-left'></i></span>",
-//  	nextArrow:"<span class='arrow next'><i class='fas fa-angle-right'></i></span>",
-
-//   //  toc do chieu dai khong khoang cach
-//   speed: 1000,
-//   slidesToShow: 1,
-// });
 				
 $(".slideshow").slick({
 

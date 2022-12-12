@@ -595,3 +595,16 @@ line-height: 2.25rem;
  margin-left: -5px;
  color: #fff;;
 }
+.icon-bank{
+  width: 100%;
+  display: flex;
+}
+.icon-bank img{
+  width: 50px !important;
+  height: 50px;
+  border: 1px solid #000;
+  margin-top: 20px;
+  margin-right: 20px;
+  background-color: #fff;
+  border-radius: 3px;
+}
