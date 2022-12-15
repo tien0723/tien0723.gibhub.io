@@ -826,7 +826,8 @@ footer {
 
 /* phone */
 /* and (max-width: 739px) */
-@media screen and (min-width: 375px) and (max-width: 739px) {
+/* @media screen and (min-width: 375px) and (max-width: 739px) { */
+  @media screen and (min-width: 375px) and (max-width: 739px) {
   .phone {
     display: none;
   }
